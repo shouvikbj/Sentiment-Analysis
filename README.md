@@ -4,12 +4,8 @@
 
 # Tools used ->
 
-## Python
-
-## nltk
-
-## TextBlob
-
-## newspaper3k
-
-## shortuuid
+Python
+nltk
+TextBlob
+newspaper3k
+shortuuid
