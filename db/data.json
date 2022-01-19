@@ -1,0 +1,17 @@
+{
+  "https://shouvikbajpayee.pythonanywhere.com": {
+    "id": "ZJamMcJhGSG4mJmoKfSP6c",
+    "text": "About MyselfAs an engineer, I want to find myself in an organization where I can learn how to utilize my skills and abilities to contribute to my organization and help it to grow further for providing the best services to the nation and to the future professionals.",
+    "sentiment": 0.3333333333333333
+  },
+  "https://therealnews.com": {
+    "id": "ksvCo6fmbSjmPeU4ezdhNW",
+    "text": "The Marc Steiner Show meets you at the intersection of politics and culture.\nWe produce dynamic conversations and visual productions with activists, actors, artists and authors to creatively get to the root of the social, political and cultural issues that we and our world face.\nWorking People is a podcast about working-class lives in the 21st century.\nIn every episode, you\u2019ll hear interviews with workers from all walks of life.\nWorking People aims to share and celebrate the diverse stories of working-class people, to remind ourselves that our stories matter, and to build a sense of shared struggle and solidarity between workers around the world.",
+    "sentiment": 0.09047619047619047
+  },
+  "https://bengali.abplive.com": {
+    "id": "mUfqV4bM4zbx2Yw27HFgaT",
+    "text": "376 Ayaz Memon @cricketwallahFluent half century by #Kohli but he will be dismayed by his soft dismissal when he had the bowling at his mercy.\nSpurned chance to make a century with a loose stroke.\nIndia have to rebuild strongly from here.\nMatch not yet over!",
+    "sentiment": 0.09951923076923076
+  }
+}
