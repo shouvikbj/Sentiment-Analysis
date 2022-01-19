@@ -5,7 +5,11 @@
 # Tools used ->
 
 Python
+
 nltk
+
 TextBlob
+
 newspaper3k
+
 shortuuid
